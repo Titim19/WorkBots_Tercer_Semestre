@@ -1,4 +1,1 @@
-Scrum es un marco de trabajo ágil centrado en la entrega interactiva e incremental
-de productos de alta calidad a través de la colaboración, la comunicación y la retroalimentación
-continua entre los miembros del equipo, con roles y responsabilidades claras y un enfoque en la
-mejora continua del proces
+Scrum es un proceso en el que se aplican de manera regular un conjunto de buenas prácticas para trabajar colaborativamente, en equipo, y obtener el mejor resultado posible de un proyecto. Estas prácticas se apoyan unas a otras y su selección tiene origen en un estudio de la manera de trabajar de equipos altamente productivos.
