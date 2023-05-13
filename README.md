@@ -4,7 +4,9 @@
                                                                    INTEGRANTES:                
 
 
-![image](https://github.com/CodeSystem2022/Work_bots_Tercer_Trimestre/assets/111476643/3240bc73-f0fe-4a2a-8084-88002b11ad43      )                                                              
+                                
+![image](https://github.com/CodeSystem2022/Work_bots_Tercer_Trimestre/assets/111476643/3e95757c-567f-4292-b466-c9058364d45f)
+                                              
 
 
 
