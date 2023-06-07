@@ -2,21 +2,20 @@
 
 
 
-                                                                   INTEGRANTES:                
-
-
-                                
-![image](https://github.com/CodeSystem2022/Work_bots_Tercer_Trimestre/assets/111476643/3e95757c-567f-4292-b466-c9058364d45f)
-                                              
-
-
-
-
+                                                                   INTEGRANTES:
+                                                                   
+    Manrique Cristian, Ferro Nicolás, Reyes Leonela, Jara Vilma, Cano Facundo, Quiñonez Nelson Damian, Giuliano Facundo Gabriel
+                                                                   
 Scrum es un proceso en el que se aplican de manera regular un conjunto de buenas prácticas para trabajar colaborativamente, en equipo, y obtener el mejor resultado posible de un proyecto. Estas prácticas se apoyan unas a otras y su selección tiene origen en un estudio de la manera de trabajar de equipos altamente productivos.
 
-
-
-![image](https://github.com/CodeSystem2022/Work_bots_Tercer_Trimestre/assets/111476643/7a19e796-2bfc-4ee7-bfdd-5bdffe11aadf)
-
+    Semana 1,2,3 Python -----> Nicolas Ferro
+    Semana 1,2,3 Java   -----> Leonela Reyes
+    Semana 1,2,3 JS     -----> Vilma
+    Semana 4            -----> Facundo Giuliano
+    Semana 5            ----->
+    Semana 6            ----->
+    Semana 7            ----->
+    Semana 8            -----> 
+    Semana 9            ----->
 
 
