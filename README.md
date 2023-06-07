@@ -12,10 +12,9 @@ Scrum es un proceso en el que se aplican de manera regular un conjunto de buenas
     Semana 1,2,3 Java   -----> Leonela Reyes
     Semana 1,2,3 JS     -----> Vilma Jara
     Semana 4            -----> Facundo Giuliano
-    Semana 5            ----->
-    Semana 6            ----->
-    Semana 7            ----->
+    Semana 5            -----> Cristian Manrique
+    Semana 6            -----> Facundo Cano
+    Semana 7            -----> Damian Quiñonez
     Semana 8            -----> 
     Semana 9            ----->
-
-
+    
