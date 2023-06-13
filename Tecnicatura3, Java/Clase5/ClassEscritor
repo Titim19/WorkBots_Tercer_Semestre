@@ -1,3 +1,4 @@
+Alumno: MANRIQUE CRISTIAN WORKBOTS
 package domain;
 
 public class Escritor extends Empleado{
